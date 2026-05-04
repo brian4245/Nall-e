@@ -9,7 +9,7 @@ And this is a example:
 
 Okay, now that this has been shown.
 The other topic you read is about the circuit system.
-##Materials##
+## Materials ##
 - 1 Arduino uno
 - 1 resistor
 - 1 led
@@ -18,4 +18,5 @@ The other topic you read is about the circuit system.
 - 11 wires
 -  1 IR sensor
 -  1 IR remote
-##Schematic##
+## Schematic ##
+
