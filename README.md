@@ -19,5 +19,5 @@ The other topic you read is about the circuit system.
 -  1 IR sensor
 -  1 IR remote
 ## Schematic ##
-![image alt](https://github.com/brian4245/Nall-e/blob/bcc59187222aa97e399cc7effc983e2f0d2116e8/Shiny%20Wluff_page-0001.jpg)
+![image alt](https://github.com/brian4245/Nall-e/blob/06a9a0c59d5ac353cc057d77538fbe0ec7b0c97c/Captura%20de%20pantalla%202026-05-16%20202029.png)
 
